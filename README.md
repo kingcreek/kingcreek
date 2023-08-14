@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<p align="center">
 <table align="center">
   <tr>
     <th>Project Name 🧠</th>
@@ -115,4 +114,3 @@
     </td>
   </tr>
 </table>
-</p>
