@@ -1,4 +1,9 @@
-<p align="center"> [![imurugar's 42 stats](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42) </p>
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/stats?cursusId=21&coalitionId=64" alt="imurugar's 42 stats" />
+  </a>
+</p>
+
 <p align="center">
 <table>
   <tr>
