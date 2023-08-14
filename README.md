@@ -1,54 +1,15 @@
 [![imurugar's 42 stats](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 
-CPP Module 00
-Success
-100
-/100
-Libft
-Success
-122
-/100
-Exam Rank 04
-Success
-100
-/100
-minishell
-Success
-99
-/100
-Philosophers
-Success
-100
-/100
-Exam Rank 03
-Success
-100
-/100
-push_swap
-Success
-100
-/100
-Exam Rank 02
-Success
-100
-/100
-so_long
-Success
-122
-/100
-minitalk
-Success
-125
-/100
-get_next_line
-Success
-125
-/100
-Born2beroot
-Success
-125
-/100
-ft_printf
-Success
-100
-/100
+[![imurugar's 42 Libft Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2793590)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2802721)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2946320)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2963580)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2971604)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 so_long Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3003603)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3001242)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3032003)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3056678)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3041128)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 minishell Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3163156)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3183912)](https://github.com/JaeSeoKim/badge42)
+[![imurugar's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3219567)](https://github.com/JaeSeoKim/badge42)
