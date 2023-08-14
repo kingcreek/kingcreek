@@ -1,16 +1,40 @@
 [![imurugar's 42 stats](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 
-ft_printf [![imurugar's 42 Libft Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2793590)](https://github.com/JaeSeoKim/badge42)
-
-[![imurugar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2802721)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2946320)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2963580)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2971604)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 so_long Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3003603)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3001242)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3032003)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3056678)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3041128)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 minishell Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3163156)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3183912)](https://github.com/JaeSeoKim/badge42)
-[![imurugar's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3219567)](https://github.com/JaeSeoKim/badge42)
+<table>
+  <tr>
+    <th>Project Name 🧠</th>
+    <th>Score 💯</th>
+  </tr>
+  <tr>
+    <td>Libft 📚</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2778653" alt="arforouz's 42 Libft Score" /></a></td>
+  </tr>
+  <tr>
+    <td>ft_printf ✏️</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2844857" alt="arforouz's 42 ft_printf Score" /></a></td>
+  </tr>
+  <tr>
+    <td>get_next_line</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2931588" alt="arforouz's 42 get_next_line Score" /></a></td>
+  </tr>
+  <tr>
+    <td>Born2beroot</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2916992" alt="arforouz's 42 Born2beroot Score" /></a></td>
+  </tr>
+  <tr>
+    <td>Minitalk</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/2977474" alt="arforouz's 42 minitalk Score" /></a></td>
+  </tr>
+  <tr>
+    <td>Push_swap</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3067978" alt="arforouz's 42 push_swap Score" /></a></td>
+  </tr>
+    <tr>
+    <td>so_long 🎮</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3099321" alt="arforouz's 42 so_long Score" /></a></td>
+  </tr>
+  <tr>
+    <td>Exam02 </td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp32gkb006408ml5lk8fers/project/3021857" alt="arforouz's 42 Exam Rank 02 Score" /></a></td>
+  </tr>
+</table>
