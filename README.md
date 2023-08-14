@@ -1,18 +1,54 @@
-### Hi there 👋
-
-<!--
-**kingcreek/kingcreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![imurugar's 42 stats](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+
+CPP Module 00
+Success
+100
+/100
+Libft
+Success
+122
+/100
+Exam Rank 04
+Success
+100
+/100
+minishell
+Success
+99
+/100
+Philosophers
+Success
+100
+/100
+Exam Rank 03
+Success
+100
+/100
+push_swap
+Success
+100
+/100
+Exam Rank 02
+Success
+100
+/100
+so_long
+Success
+122
+/100
+minitalk
+Success
+125
+/100
+get_next_line
+Success
+125
+/100
+Born2beroot
+Success
+125
+/100
+ft_printf
+Success
+100
+/100
