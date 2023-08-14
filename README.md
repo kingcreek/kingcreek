@@ -1,6 +1,7 @@
 [![imurugar's 42 stats](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 
-[![imurugar's 42 Libft Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2793590)](https://github.com/JaeSeoKim/badge42)
+ft_printf [![imurugar's 42 Libft Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2793590)](https://github.com/JaeSeoKim/badge42)
+
 [![imurugar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2802721)](https://github.com/JaeSeoKim/badge42)
 [![imurugar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2946320)](https://github.com/JaeSeoKim/badge42)
 [![imurugar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2963580)](https://github.com/JaeSeoKim/badge42)
