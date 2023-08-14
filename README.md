@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <th>Project Name 🧠</th>
     <th>Score 💯</th>
