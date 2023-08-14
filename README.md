@@ -6,11 +6,11 @@
 
 <table align="center">
   <tr>
-    <th>Project Name 🧠</th>
-    <th>Score 💯</th>
+    <th>Project Name</th>
+    <th>Score</th>
   </tr>
   <tr>
-    <td>Libft 📚</td>
+    <td>Libft</td>
     <td>
       <a href="https://github.com/JaeSeoKim/badge42">
         <img src="https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2793590" alt="imurugar's 42 Libft Score" />
@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td>ft_printf ✏️</td>
+    <td>ft_printf</td>
     <td>
       <a href="https://github.com/JaeSeoKim/badge42">
         <img src="https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/2802721" alt="imurugar's 42 ft_printf Score" />
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td>so_long 🎮</td>
+    <td>so_long</td>
     <td>
       <a href="https://github.com/JaeSeoKim/badge42">
         <img src="https://badge42.vercel.app/api/v2/cl88mjsi200790gkyeb47iyiw/project/3003603" alt="imurugar's 42 so_long Score" />
