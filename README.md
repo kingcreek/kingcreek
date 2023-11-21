@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate programmer and [your
 ---
 
 <div align="center">
-  <img src="https://your-url.com/image.gif" alt="Interesting GIF">
+  <img src="image1.gif" alt="Interesting GIF">
 </div>
 
 ---
