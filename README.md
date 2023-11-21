@@ -1,7 +1,4 @@
 # Hello! 👋
-
-Welcome to my GitHub profile! I'm kingcreek, a passionate programmer!! Currently, I am currently studying in 42 Madrid.
-
 ---
 
 <div align="center">
