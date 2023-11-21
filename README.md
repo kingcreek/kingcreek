@@ -2,10 +2,6 @@
 ---
 
 <div align="center">
-  <img width="300" height="300" src="image1.gif" alt="GIF Interesante" style="transform: perspective(500px) rotateY(20deg);">
-</div>
-
-<div align="center">
   <img src="image1.gif" alt="Interesting GIF">
 </div>
 
